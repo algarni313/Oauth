@@ -1,0 +1,2 @@
+OAuth is the way that allow us to have simple sign in process by clicking sing up in with Google , git hub . User will redirect to the that site when he access through OAuth ways .It allows Clients to verify the identity of the End-User based on the authentication performed by an Authorization Server, as well as to obtain basic profile information about the End-User
+In this example I used GitHub by allowing local host to be redirected to use GitHub identity. Then to redirect back to site by using GitHub . Then it will access api with client access token 
